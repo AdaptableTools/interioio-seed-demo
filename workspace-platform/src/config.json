@@ -192,8 +192,8 @@
           "type": "window",
           "title": "Trades (Receiver)",
           "details": {
-            "url": "http://localhost:8081/agGrid/interop-trades-fdc3-demo",
-            "xurl": "http://localhost:8080/trades"
+            "xurl": "http://localhost:8081/agGrid/interop-trades-fdc3-demo",
+            "url": "http://localhost:8080/trades"
           },
           "customProperties": {
             "includeInWorkspaces": true
@@ -211,8 +211,8 @@
           "type": "window",
           "title": "Instruments (Sender)",
           "details": {
-            "url": "http://localhost:8081/agGrid/interop-positions-fdc3-demo",
-            "xurl": "http://localhost:8080/instruments"
+            "xurl": "http://localhost:8081/agGrid/interop-positions-fdc3-demo",
+            "url": "http://localhost:8080/instruments"
           },
           "customProperties": {
             "includeInWorkspaces": true
