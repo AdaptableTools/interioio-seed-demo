@@ -1,6 +1,6 @@
 {
   "browserPlatform": {
-    "licenseKey": "__INSERT_LICENSE",
+    "licenseKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHBpcmF0aW9uIjoxNzE0NDQ5NjAwLCJ0eXBlIjoidHJpYWwifQ.khvfrVl-Wwef4n50G1rQ7Ntc0xuVK0HvTDYpPUmiZFs",
     "workspaces": {
       "src": "/",
       "isFrame": true
